@@ -1,6 +1,6 @@
 import pytest
 
-from code import mysum
+from .code import mysum
 
 
 def test_1():
