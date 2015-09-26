@@ -1,4 +1,5 @@
 import pytest
+import matplotlib
 
 from .code import mysum
 
