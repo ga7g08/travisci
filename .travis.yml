@@ -6,6 +6,8 @@ python:
 
 before_script:
   - sudo apt-get install python-matplotlib
+  - sudo apt-get install libsundials-serial-dev libfftw3-dev
+  - ls /usr/lib/x86_64-linux-gnu/
 
 # command to install dependencies
 # install: "pip install -r requirements.txt"

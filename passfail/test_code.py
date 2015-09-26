@@ -1,5 +1,5 @@
 import pytest
-import matplotlib
+#import matplotlib
 
 from .code import mysum
 
