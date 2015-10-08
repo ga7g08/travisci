@@ -1,10 +1,10 @@
 import pytest
-import matplotlib
 
 from .code import mysum
 
 
 def test_1():
+    """ what does this test do? """
     assert mysum(1, 3) == 4
 
 
